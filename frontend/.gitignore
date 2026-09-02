@@ -25,3 +25,7 @@ dist-ssr
 # Local Databases
 *.db
 *.sqlite
+
+.env
+backend/.env
+node_modules/
